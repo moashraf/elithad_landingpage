@@ -1,0 +1,61 @@
+footer {
+  margin-top: 50px;
+  background: linear-gradient(#0c1f33e3, #c7722cd3),
+    url("https://3.top4top.net/p_1339v2tma1.jpg");
+  background-attachment: fixed;
+
+  .logo {
+    img {
+      width: 130px;
+    }
+  }
+}
+
+.footer-about-p {
+  color: #fff;
+  font-size: 14px;
+}
+
+.footer-title {
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+
+footer .footer-link a {
+  display: block !important;
+  width: 155px;
+  margin-bottom: 15px;
+}
+
+footer .footer-link a:hover {
+  width: 160px;
+}
+
+.footer-div {
+  padding: 5px 20px;
+}
+
+.footer-social {
+  position: static;
+}
+
+.footer-social a {
+  display: inline-block !important;
+  margin-top: 15px;
+}
+
+.footer-follow {
+  margin-top: 10px;
+}
+
+.copyrights {
+  color: #fff;
+  font-size: 14px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.copyrights a {
+  color: #fff;
+  font-size: 20px;
+}

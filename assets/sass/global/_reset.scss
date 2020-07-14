@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Changa&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: "Changa", sans-serif;
+  background-attachment: fixed;
+  overflow-x: hidden;
+  background: linear-gradient(#0c1f33e3, #0c1f33c0),
+    url("https://5.top4top.net/p_13391iqyj1.jpg");
+  background-attachment: fixed;
+}
+
+ul {
+  list-style: none;
+}
+
+.image-100 {
+  width: 100%;
+}
+
+.no-line {
+  a {
+    text-decoration: none !important;
+  }
+}
+
+.none {
+  display: none;
+}
+
+::-webkit-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #c7712c !important;
+
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #c7712c !important;
+
+  opacity: 1; /* Firefox */
+}
+
+::-ms-input-placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #c7712c !important;
+
+  opacity: 1; /* Firefox */
+}
+
+::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: #c7712c !important;
+
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #c7712c !important;
+}
+
+::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: #c7712c !important;
+}
